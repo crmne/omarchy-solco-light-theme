@@ -48,8 +48,9 @@ Sampled from the design tokens of [getsolco.com](https://getsolco.com).
 Original wallpapers made for this theme from the brand's own artwork:
 
 - `01-tile.jpg`: The Solco app icon centred with a soft warm shadow on the light beatgrid
-- `02-waveform.jpg`: The three-band waveform in the light UI's waveform tokens (blue lows, orange mids, light core) on a beatgrid with a red downbeat
-- `03-field.jpg`: The launch poster's violet field, pale, with the mark's grooves at full scale in the centre and faint blue/orange corner glows
+- `02-lockup.jpg`: The logo with its name, centered
+- `03-waveform.jpg`: The three-band waveform in the light UI's waveform tokens (blue lows, orange mids, light core) on a beatgrid with a red downbeat
+- `04-field.jpg`: The launch poster's violet field, pale, with the mark's grooves at full scale in the centre and faint blue/orange corner glows
 
 ## Requirements
 
